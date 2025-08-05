@@ -1,7 +1,3 @@
-# academia
-The Academy is a platform for sharing pre-publication research in formology, bodily culture, and institutional design. It features original texts, theoretical drafts, and analytical studies reviewed internally. Contributions foster dialogue across disciplines and support the ethical architecture of Imarch
-
-
 # 🏛️ Academia Formologica
 
 **Academia** est spatium ad exhibitionem et discussionem praepublicationum scientificarum, quae ad philosophiam formae, culturam corporis, ac institutionem structurarum theoreticarum pertinent. Hic textus originales, investigationes rudimentales, et commentaria analytica proponuntur, moderatione interna probata.
